@@ -2,7 +2,7 @@
 
 Software engineer working across **systems, developer tooling, and multimedia**.
 
-I like understanding how things work below the abstraction layer - and building tools when the existing workflow gets in the way.
+I like understanding how things work below the abstraction layer — and building tools when the existing workflow gets in the way.
 
 My background spans C/C++, embedded systems and multimedia, with an increasing focus on developer productivity and AI-assisted tooling.
 
@@ -36,12 +36,19 @@ A small reminder that sometimes software needs wires.
 
 **C/C++ · ESP32 · DSP · Embedded**
 
+### [dotfiles](https://github.com/mm4cN/dotfiles)
+My reproducible development environment for **macOS and Linux**, built around Nix and Home Manager.
+
+Neovim, WezTerm, tmux, Git and AI-assisted development tooling — versioned instead of being reconstructed from increasingly unreliable memory every time a machine changes.
+
+**Nix · Home Manager · Neovim · Lua · Developer Tooling**
+
 ### Custom Corne keyboards
 
 My configurations and firmware experiments for the **Corne (CRKBD)** split keyboard.
 
-- [qmk-corne-config](https://github.com/mm4cN/vial-crkbd-config) - wired QMK (vial) build and custom keymap.
-- [zmk-corne-config](https://github.com/mm4cN/zmk-corne-config) - wireless ZMK build, including custom hardware integration.
+- [vial-crkbd-config](https://github.com/mm4cN/vial-crkbd-config) — wired Vial/QMK build and custom keymap.
+- [zmk-corne-config](https://github.com/mm4cN/zmk-corne-config) — wireless ZMK build with custom hardware integration and a Cirque trackpad driver.
 
 Because apparently buying a keyboard and simply using it would have been too easy.
 
