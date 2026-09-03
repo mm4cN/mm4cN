@@ -40,8 +40,8 @@ A small reminder that sometimes software needs wires.
 
 My configurations and firmware experiments for the **Corne (CRKBD)** split keyboard.
 
-- [qmk-corne-config](https://github.com/mm4cN/qmk-corne-config) — wired QMK build and custom keymap.
-- [zmk-corne-config](https://github.com/mm4cN/zmk-corne-config) — wireless ZMK build, including custom hardware integration.
+- [qmk-corne-config](https://github.com/mm4cN/vial-crkbd-config) - wired QMK (vial) build and custom keymap.
+- [zmk-corne-config](https://github.com/mm4cN/zmk-corne-config) - wireless ZMK build, including custom hardware integration.
 
 Because apparently buying a keyboard and simply using it would have been too easy.
 
